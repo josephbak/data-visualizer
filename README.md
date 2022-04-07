@@ -3,4 +3,4 @@
 ## Installation
 
 ### Usage
-This app helps to visulize how data is being visualized.
+This app helps to visulize how data is being modified in real time.
